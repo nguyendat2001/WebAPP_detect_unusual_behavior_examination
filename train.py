@@ -3,6 +3,7 @@ import cv2
 from keras.applications.mobilenet import  MobileNet
 from keras.layers import GlobalAveragePooling2D, Dense, Dropout
 from keras.models import Model
+import tensorflow as tf
 
 from keras.preprocessing.image import ImageDataGenerator
 import keras
@@ -71,12 +72,19 @@ callback_list = [checkpoint]
 step_train = train_generator.n//batch_size
 step_val = validation_generator.n//batch_size
 
-model.fit_generator(generator=train_generator, steps_per_epoch=step_train,
-                    validation_data=validation_generator,
-                    validation_steps=step_val,
-                    callbacks=callback_list,
-                    epochs=n_epochs)
+# model.fit_generator(generator=train_generator, steps_per_epoch=step_train,
+#                     validation_data=validation_generator,
+#                     validation_steps=step_val,
+#                     callbacks=callback_list,
+#                     epochs=n_epochs)
 
 
 # 5. Lưu model
-model.save('models/model.h5')
+# model.save('models/model.h5')
+
+import tensorflowjs as tfjs
+
+model = tf.keras.models.load_model('models/model.h5')
+
+tfjs_model_dir = 'model'
+tfjs.converters.save_keras_model(model, tfjs_model_dir)
