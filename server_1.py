@@ -151,7 +151,6 @@ mpDraw = mp.solutions.drawing_utils
 model = tf.keras.models.load_model("./model_sigmoid_no_angles.h5")
 
 def generate_frames2():
-
     warmup_frames = 100
     n_time_steps = 10
     lm_list = []
@@ -208,6 +207,7 @@ def generate_frames2():
 
 
 @app.route('/')
+@app.route('/index')
 def index():
     return render_template('index.html')
 

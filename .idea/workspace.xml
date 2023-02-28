@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4848ae3-f85c-40f9-9d75-0bbb7b12e2f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MiAI_Tensorflowjs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/server_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame266.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame290.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame294.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame368.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame370.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame373.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame384.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame385.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame394.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame406.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame425.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame426.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame428.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame431.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame433.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame435.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame446.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame448.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame449.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame450.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame454.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame455.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame457.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame460.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame462.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame463.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame464.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame467.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame468.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame470.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame471.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame478.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame481.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame483.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame485.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame486.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame487.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame488.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame490.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame492.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame494.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame495.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame496.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame497.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame498.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame499.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame505.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame51.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame510.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame511.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame518.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame520.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame522.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame523.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame524.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame525.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame527.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame529.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame530.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame535.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame538.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame539.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame540.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame541.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame542.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame544.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame545.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame547.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame548.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/save_frame_cheating/frame8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/save_frame_cheating/frame99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index_flower.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/inner-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inner-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/portfolio-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/show_all.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HfK4YmNNICKBHSSVe19EiZFE7p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../deploy_web_NCKH" />
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/study/nien luan co so/webapp/Tensorflowjs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/study/nien luan co so/webapp/Tensorflowjs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4848ae3-f85c-40f9-9d75-0bbb7b12e2f4" name="Changes" comment="" />
+      <created>1668670506215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668670506215</updated>
+    </task>
+    <servers />
+  </component>
+</project>
