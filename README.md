@@ -31,6 +31,6 @@ Install and update using `pip`_:
 
 .. code-block:: text
 
-    $ python server_1.py
+    $ python server.py
 
 .. _pip: https://pip.pypa.io/en/stable/getting-started/
